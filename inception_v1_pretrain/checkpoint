@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/hoa/workplace/output/checkpoint/inception_v1_pretrain/model.ckpt-4000"
+all_model_checkpoint_paths: "/home/hoa/workplace/output/checkpoint/inception_v1_pretrain/model.ckpt-2861"
+all_model_checkpoint_paths: "/home/hoa/workplace/output/checkpoint/inception_v1_pretrain/model.ckpt-3219"
+all_model_checkpoint_paths: "/home/hoa/workplace/output/checkpoint/inception_v1_pretrain/model.ckpt-3577"
+all_model_checkpoint_paths: "/home/hoa/workplace/output/checkpoint/inception_v1_pretrain/model.ckpt-3934"
+all_model_checkpoint_paths: "/home/hoa/workplace/output/checkpoint/inception_v1_pretrain/model.ckpt-4000"
